@@ -1,0 +1,3 @@
+[submodule "task5-subproj"]
+	path = task5-subproj
+	url = https://github.com/smirnowdimo/task5-subproj.git
